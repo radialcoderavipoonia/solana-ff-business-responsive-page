@@ -702,9 +702,10 @@ ul {
 .right_18 {
     right: 18%;
 }
-.padding{
+
+.padding {
     padding: 0px 31px 16px 36px;
-    
+
 }
 
 .top_45 {
@@ -730,7 +731,7 @@ p {
 .hover_large:hover {
     transform: scale(1.1);
     transition: all 0.3s linear;
-   
+
 }
 
 .accordion-body {
@@ -883,6 +884,7 @@ p {
     .pl_50_md {
         padding-left: 50px;
     }
+
     .pb_25_md {
         padding-bottom: 25px;
     }
@@ -998,11 +1000,16 @@ p {
     .dis_block_md {
         display: block;
     }
-        .pos_fixed_res_md {
-            position: fixed;
-            top: 0;
-            width: 100%;
-        }
+
+    .pos_fixed_res_md {
+        position: fixed;
+        top: 0;
+        width: 100%;
+    }
+
+    .pt_40_md {
+        padding-top: 40px;
+    }
 
 }
 
@@ -1086,7 +1093,7 @@ p {
         left: 0%;
     }
 
-    
+
 
     .mt_50_xsm {
         margin-top: 50px;
