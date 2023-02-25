@@ -754,49 +754,44 @@ p {
 .accordion-button::after {
     background-image: url(../image/svg/arrow_up.svg);
 }
-@media (max-width:2500px) {
-    .top_39{
-        top: 39%;
-    }
-    .top_55{
-        top: 55%;
-    }
-    .top_41{
-        top: 41%;
-    }
-    .top_56{
-        top: 56%;
-    }
+.img1{
+    right: 60px;
+    bottom: 100px;
 }
-@media (max-width:2100px) {
-    .top_33{
-        top: 33%;
-    }
-    .top_34{
-        top: 34%;
-    }
-    .top_50_{
-        top: 50%;
-    }
-    .top_51{
-        top: 51%;
-    }
+.img2{
+    right: 70px;
+    top: 40px;
 }
-@media (max-width:1700px) {
-    .top_28{
-        top: 28%;
-    }
-    .top_28_{
-top: 28%;
-    }
-    .top_46{
-        top: 46%;
-    }
-    .top_48{
-        top: 48%;
-    }
+.img3{
+    right: 319px;
+    bottom: 27px;
 }
-
+.img4{
+    right: 406px;
+    top: 30px;
+}
+.img5{ 
+    left: 90px;
+    top: 30px;
+}
+.img6{
+    left: 40px;
+    bottom: 40px;
+}
+.img7{ 
+    top: 20px;
+    left: 400px;
+}
+.img8{
+    bottom: 60px;
+    left: 300px;
+}
+.pos_rel{
+    position: relative;
+}
+.h_330{
+    height: 330px;
+}
 @media (max-width:1400px) {
     .dis_none_xxl {
         display: none;
