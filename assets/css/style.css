@@ -728,9 +728,13 @@ p {
     margin-bottom: 0;
 }
 
+.hover_large {
+
+    transition: all 0.3s linear;
+}
+
 .hover_large:hover {
     transform: scale(1.1);
-    transition: all 0.3s linear;
 
 }
 
